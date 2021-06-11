@@ -1,0 +1,115 @@
+.con h1{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 5rem;
+  font-weight: 650;
+  color:#393232;
+}
+.con h4{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 600;
+  text-align:right!important;
+    color:#393232;
+}
+.con p{
+  font-family: 'ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 500;
+  text-align: right;
+    color:#393232;
+}
+.con{
+
+  padding: 7% 15%;
+  text-align: right;
+  background-color: #f2edd7;
+
+}
+.navbar{
+  background-color: #b4846c;
+      color:#393232;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 10% 15%;
+  padding: auto 30%;
+  border-radius: 2%;
+
+}
+ .navbar-brand{
+    font-family: pacifico;
+    font-size: 2rem;
+}
+.intro{
+  margin:4% auto 3%;
+  padding:12% 15%;
+}
+#mood h3{
+  color: #f2edd7;
+   font-family: 'Ubuntu', sans-serif;
+  font-size:3rem;
+  font-weight: 600;
+  text-align: center;
+  padding:5% 10%;
+}
+#mood{
+  background-color: #b4846c;
+}
+.mood-img{
+
+  width:300px;
+  height:300px;
+  margin:4% auto 4% 11%;
+ border-radius: 10%
+}
+
+p{
+  text-align: center;
+  font-family: "open sans", sans-serif;
+  font-size: 2rem;
+  color: #f2edd7;
+}
+#mood{
+  padding:7% 10%;
+}
+#fav h3{
+  color:#766161;
+  font-family: 'Ubuntu', sans-serif;
+ font-size:3rem;
+ font-weight: 600;
+ text-align: center;
+ padding:5% 10%;
+ margin:4% auto;
+}
+@media (min-width:550px){
+  .mood-img{
+    margin-left: 30%;
+  }
+}
+#fav{
+  text-align: center;
+  background-color: #ecdbba;
+  padding: 7% 17%;
+}
+.c{
+  margin: 3% 2%;
+}
+.symbol{
+  margin:5px;
+}
+#contact{
+  background-color:#a0937d;
+  font-size: 2rem;
+  padding:4%;
+  text-align: center;
+}
+#fav h4{
+  font-size: 3rem;
+}
+#fav h5{
+  font-size: 2.5rem;
+}
+.c{
+  color:#766161;
+  margin:6% 3%;
+  background-color: #f2edd7!important;
+}
